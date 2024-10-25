@@ -448,4 +448,7 @@ width: 220px;
  .form-layout label {
   font-size: 8px;
  }
+  .container-register #checkbox{ /*ALTERING WIDTH OF CHECKBOX*/
+  width:10px;
+}
 }
