@@ -443,6 +443,9 @@ width: 220px;
   
 }
 .form-layout a {
- font-size: 22px;
-}
+  font-size: 10px;
+ }
+ .form-layout label {
+  font-size: 8px;
+ }
 }
