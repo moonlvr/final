@@ -85,7 +85,7 @@ header {
 .container-title {
   text-align: center;
   margin-top: 150px;
-  height: 250px;
+  height: 200px;
   display: flex;
   flex-direction: column;
   justify-content: center;
