@@ -60,8 +60,6 @@ header {
 
 .nav-bar li {
   margin: 0 20px;
-  
-  
 }
 
 .nav-bar a {
@@ -175,7 +173,7 @@ table, th, td {
 
 .container-gallery img { /*LAYOUT OF IMAGE WIDTH AND HEIGHT*/
   width: 320px;
-  height: 300px;
+  height: 200px;
 }
 
 /*===REGISTER====*/
@@ -373,8 +371,10 @@ iframe {
 
   header {
     padding: 15px;
-    height: 100px;
-    
+    height: 200px;
+  }
+  .container-title{
+    height: 150px;
   }
 
   .nav-logo img {
@@ -438,17 +438,15 @@ width: 220px;
 
 .container-register #checkbox{ /*ALTERING WIDTH OF CHECKBOX*/
   width:20px;
- 
-  
-  
 }
+/*===REGISTER===*/
 .form-layout a {
   font-size: 10px;
  }
  .form-layout label {
   font-size: 8px;
  }
-  .container-register #checkbox{ /*ALTERING WIDTH OF CHECKBOX*/
+ .container-register #checkbox{ /*ALTERING WIDTH OF CHECKBOX*/
   width:10px;
 }
 }
